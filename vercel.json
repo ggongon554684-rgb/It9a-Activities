@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/it9a/TASK 7.2- Dynamic User Data Form with Table Display using JavaScript DOM/TableForm.html"
+    }
+  ]
+}
